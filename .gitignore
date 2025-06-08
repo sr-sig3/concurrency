@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# 환경 변수 파일
+.env
+
+# 데이터베이스
+*.sqlite3
+
+# 기타
+*.log 
